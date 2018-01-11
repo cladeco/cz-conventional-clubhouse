@@ -13,7 +13,7 @@ This adapter adds 2 features to commitizen/cz-conventional-changelog:
 
 * The ability to link the branch the commit is on to a clubhouse.io story via:
   `[branch ch<STORYNUMBER>]`
-* The ability to likk the specific commit to a clubhouse.io story via:
+* The ability to link the specific commit to a clubhouse.io story via:
   `[ch<STORYNUMBER>]`
 
 Both of these are questions asked after the commit information has been added. A
